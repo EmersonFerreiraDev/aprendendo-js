@@ -32,6 +32,7 @@ Todos os exercícios estão contidos dentro da pasta `/desafiosJS`.
 | [`exerciciojantar.js`](./desafiosJS/exerciciojantar.js) | Cálculo de rateio de jantar. |
 | [`extraLongFatorials.js`](./desafiosJS/extraLongFatorials.js) | Fatorial de números grandes (BigInt). |
 | [`gradingStudents.js`](./desafiosJS/gradingStudents.js) | Regras de arredondamento de notas. |
+| [`introTutorialChallenge.js`](./desafiosJS/introTutorialChallenge.js) | Implementação de Busca Linear para localização de índices em arrays. |
 | [`lojaepagamento.js`](./desafiosJS/lojaepagamento.js) | Descontos e formas de pagamento. |
 | [`magicSquare.js`](./desafiosJS/magicSquare.js) | Otimização para "Quadrado Mágico". |
 | [`MigratoryBirds.js`](./desafiosJS/MigratoryBirds.js) | Frequência de tipos de pássaros. |
