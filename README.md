@@ -14,6 +14,7 @@ Todos os exercícios estão contidos dentro da pasta `/desafiosJS`.
 | Arquivo | Descrição |
 | :--- | :--- |
 | [`appleAndOrange.js`](./desafiosJS/appleAndOrange.js) | Contagem de frutas dentro de um intervalo. |
+| [`angryProfessor.js`](./desafiosJS/angryProfessor.js) | Verificação de cancelamento de aula com base no horário de chegada dos alunos. |
 | [`arraysum.js`](./desafiosJS/arraysum.js) | Soma de todos os elementos de um array. |
 | [`bigSorting.js`](./desafiosJS/bigSorting.js) | Ordenação de números gigantes utilizando comparação lexicográfica e lógica de `length`. |
 | [`billDivision.js`](./desafiosJS/billDivision.js) | Verificação de divisão de conta de restaurante. |
