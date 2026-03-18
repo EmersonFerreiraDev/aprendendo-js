@@ -16,6 +16,7 @@ Todos os exercícios estão contidos dentro da pasta `/desafiosJS`.
 | [`appleAndOrange.js`](./desafiosJS/appleAndOrange.js) | Contagem de frutas dentro de um intervalo. |
 | [`angryProfessor.js`](./desafiosJS/angryProfessor.js) | Verificação de cancelamento de aula com base no horário de chegada dos alunos. |
 | [`arraysum.js`](./desafiosJS/arraysum.js) | Soma de todos os elementos de um array. |
+| [`beautifulDaysAtTheMovie.js`](./desafiosJS/beautifulDays.js) | Cálculo de "Dias Bonitos" usando reversão de números e critérios de divisibilidade. |
 | [`bigSorting.js`](./desafiosJS/bigSorting.js) | Ordenação de números gigantes utilizando comparação lexicográfica e lógica de `length`. |
 | [`billDivision.js`](./desafiosJS/billDivision.js) | Verificação de divisão de conta de restaurante. |
 | [`birthdayCakecandle.js`](./desafiosJS/birthdayCakecandle.js) | Contagem de elementos de valor máximo (velas). |
