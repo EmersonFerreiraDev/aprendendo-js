@@ -52,7 +52,7 @@ Todos os exercícios estão contidos dentro da pasta `/desafiosJS`.
 | [`teste.js`](./desafiosJS/teste.js) | Operações aritméticas básicas. |
 | [`testando.js`](./desafiosJS/testando.js) | Condicionais por faixa etária. |
 | [`timeConversion.js`](./desafiosJS/timeConversion.js) | Conversão 12h para 24h. |
-| [`timeInWords.js`](./desafiosJS/timeInWords.js) Conversão de tempo em texto com foco em precisão e lógica de strings. |
+| [`timeInWords.js`](./desafiosJS/timeInWords.js) | Conversão de tempo em texto com foco em precisão e lógica de strings. |
 | [`veryBigSum.js`](./desafiosJS/veryBigSum.js) | Soma de números inteiros grandes. |
 
 ---
