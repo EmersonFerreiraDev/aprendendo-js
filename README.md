@@ -48,6 +48,7 @@ Todos os exercícios estão contidos dentro da pasta `/desafiosJS`.
 | [`pesoldeal.js`](./desafiosJS/pesoldeal.js) | Cálculo de peso ideal. |
 | [`pizzariaLPAJ.js`](./desafiosJS/pizzariaLPAJ.js) | Divisão de conta de pizza. |
 | [`plusMinus.js`](./desafiosJS/plusMinus.js) | Proporções em array (positivo/negativo/zero). |
+| [`salesByMath.js`](./desafiosJS/salesByMath.js) | Lógica de contagem de pares (Sales by Match) usando Objetos e `for...of`. |
 | [`subarrayDivision.js`](./desafiosJS/subarrayDivision.js) | Partição de array por soma e tamanho. |
 | [`teste.js`](./desafiosJS/teste.js) | Operações aritméticas básicas. |
 | [`testando.js`](./desafiosJS/testando.js) | Condicionais por faixa etária. |
