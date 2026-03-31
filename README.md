@@ -51,6 +51,7 @@ Todos os exercícios estão contidos dentro da pasta `/desafiosJS`.
 | [`plusMinus.js`](./desafiosJS/plusMinus.js) | Proporções em array (positivo/negativo/zero). |
 | [`salesByMatch.js`](./desafiosJS/salesByMatch.js) | Lógica de contagem de pares (Sales by Match) usando Objetos e `for...of`. |
 | [`subarrayDivision.js`](./desafiosJS/subarrayDivision.js) | Partição de array por soma e tamanho. |
+| [`superReducedString.js`](./desafiosJS/superReducedString.js) | Redução de strings através da remoção de pares adjacentes idênticos. |
 | [`teste.js`](./desafiosJS/teste.js) | Operações aritméticas básicas. |
 | [`testando.js`](./desafiosJS/testando.js) | Condicionais por faixa etária. |
 | [`timeConversion.js`](./desafiosJS/timeConversion.js) | Conversão 12h para 24h. |
