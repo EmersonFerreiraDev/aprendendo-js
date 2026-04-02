@@ -50,6 +50,7 @@ Todos os exercícios estão contidos dentro da pasta `/desafiosJS`.
 | [`pizzariaLPAJ.js`](./desafiosJS/pizzariaLPAJ.js) | Divisão de conta de pizza. |
 | [`plusMinus.js`](./desafiosJS/plusMinus.js) | Proporções em array (positivo/negativo/zero). |
 | [`salesByMatch.js`](./desafiosJS/salesByMatch.js) | Lógica de contagem de pares (Sales by Match) usando Objetos e `for...of`. |
+| [`saveThePrisoner.js`](./desafiosJS/saveThePrisoner.js) | Lógica circular com Operador de Resto (`%`) para prever distribuição em ciclos. |
 | [`subarrayDivision.js`](./desafiosJS/subarrayDivision.js) | Partição de array por soma e tamanho. |
 | [`superReducedString.js`](./desafiosJS/superReducedString.js) | Redução de strings através da remoção de pares adjacentes idênticos. |
 | [`teste.js`](./desafiosJS/teste.js) | Operações aritméticas básicas. |
