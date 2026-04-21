@@ -22,6 +22,7 @@ Todos os exercícios estão contidos dentro da pasta `/desafiosJS`.
 | [`birthdayCakecandle.js`](./desafiosJS/birthdayCakecandle.js) | Contagem de elementos de valor máximo (velas). |
 | [`breakingTheRecords.js`](./desafiosJS/breakingTheRecords.js) | Rastreamento de recordes de pontuação. |
 | [`catAndMouse.js`](./desafiosJS/catAndMouse.js) | Lógica de distância entre animais e alvo. |
+| [`closetNumber.js`](./desafiosJS/closetNumber.js) | Identificação de pares com a menor diferença absoluta em um array ordenado. |
 | [`compareTheTriplets.js`](./desafiosJS/compareTheTriplets.js) | Comparação ponto a ponto de arrays. |
 | [`contaeMathmax.js`](./desafiosJS/contaeMathmax.js) | Uso da função `Math.max()` em sequências. |
 | [`contasDoMes.js`](./desafiosJS/contasDoMes.js) | Controle financeiro de despesas. |
